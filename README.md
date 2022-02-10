@@ -16,5 +16,8 @@ https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-r
   * 구버전 상수인 듯 보임. Faker::Movies::StarWars로 수정
 
 ## Part 2
-JWT로 유저 인증 <br/>
+JWT로 유저 토큰기반 인증 <br/>
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two
+
+## Part 3
+https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three
