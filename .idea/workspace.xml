@@ -5,22 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3dec3c06-2df1-411c-818c-2e0741a5cdb6" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/exception_handler.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/response.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/items_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/todos_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/factories/items.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/factories/todos.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/requests/items_request_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/requests/items_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/requests/todos_request_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/requests/todos_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/support/request_spec_helper.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spec/rails_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/rails_helper.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644422040038</updated>
       <workItem from="1644422043118" duration="682000" />
-      <workItem from="1644422743786" duration="9175000" />
+      <workItem from="1644422743786" duration="9622000" />
     </task>
     <servers />
   </component>
