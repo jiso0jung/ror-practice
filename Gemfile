@@ -14,6 +14,9 @@ gem "puma", "~> 5.0"
 
 gem 'active_model_serializers', '~> 0.10.0'
 
+gem 'will_paginate', '~> 3.1.0'
+
+gem 'faker'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 

@@ -20,4 +20,5 @@ JWT로 유저 토큰기반 인증 <br/>
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-two
 
 ## Part 3
+버전관리/직렬화/페이지네이션 <br/>
 https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-rails-5-part-three
