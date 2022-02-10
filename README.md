@@ -11,7 +11,7 @@ https://www.digitalocean.com/community/tutorials/build-a-restful-json-api-with-r
   * rspec 3.5에서 4.0으로 버전업 후 해결
   * https://makandracards.com/makandra/495334-how-to-fix-wrongscopeerror-when-using-rspec_rails-with-rails-6-1
 * 테스트 시 support 하위파일 미반영
-  * spec_helper.rb에서 `Rspec.configuration` 삭제 및 하위내용 `Rspec.configure`에 통합
+  * spec_helper.rb에서 `RSpec.configuration` 삭제 및 하위내용 `RSpec.configure`에 통합
 * `Faker::StarWars` 상수 초기화 오류
   * 구버전 상수인 듯 보임. `Faker::Movies::StarWars`로 수정
 
