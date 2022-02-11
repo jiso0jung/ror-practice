@@ -225,7 +225,7 @@ build-iPhoneSimulator/
 # .idea/compiler.xml
 # .idea/jarRepositories.xml
 # .idea/modules.xml
-# .idea/*.iml
+.idea/*.iml
 # .idea/modules
 # *.iml
 # *.ipr
@@ -298,3 +298,6 @@ fabric.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/rubymine,ruby,rails
 
+.idea/vcs.xml
+.idea/misc.xml
+.idea/.gitignore
